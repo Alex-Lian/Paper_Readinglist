@@ -7,6 +7,6 @@
 | 2/4/2022 | An Evolutionary Study of Configuration Design and Implementation in Cloud Systems | [pdf](https://github.com/Alex-Lian/Paper_Readinglists/blob/main/An%20Evolutionary%20Study%20of%20Configuration%20Design%20and%20Implementation%20in%20Cloud%20Systems.pdf) | None |
 
 ### Useful resourses
-From Tianyin
+From Tianyin                
 For those of you who are working on distributed systems testing, this is a pretty neat list,
 https://asatarin.github.io/testing-distributed-systems/
